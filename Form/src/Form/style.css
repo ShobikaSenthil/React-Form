@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+    text-align: center;
+    color:white;
+}
+
+input{
+    height:20px;
+    width:150px;
+    margin: 5px;
+    padding:3px;
+    border-radius: 5px;
+}
+select{
+    height:20px;
+    width:150px;
+    margin: 5px;
+    padding:3px;
+    border-radius: 5px;
+}
+button{
+    height:35px;
+    width:130px;
+    margin: 5px;
+    padding:3px;
+    border-radius: 5px;
+}
